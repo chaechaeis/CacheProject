@@ -1,0 +1,10 @@
+[Accessed Data]
+18    h     0x4556
+26    w     0xa9984556
+16    w     0x4556baa9
+50    w     0x2110cdde
+25    b     0x98
+--------------------------------
+[Direct mapped cache performance]
+Hit ratio = 0.40 (2/5)
+Bandwith = 0.05 (15/305)
